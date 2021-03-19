@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "751799828501",
+    "project_id": "fpoly-subi",
+    "storage_bucket": "fpoly-subi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751799828501:android:bda390506e77553f4e0e1c",
+        "android_client_info": {
+          "package_name": "com.subi.apfpoly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751799828501-vepvgq2gb0vm2n437bo18aojgcd3p349.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW5YsWlh6jtQzeynhbHuIC3PIIXcUj-yM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751799828501-vepvgq2gb0vm2n437bo18aojgcd3p349.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
